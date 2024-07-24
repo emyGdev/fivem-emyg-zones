@@ -1,3 +1,3 @@
-Fivem İçin Ayarlanabilir RedZone, SafeZone Scripti.
+Fivem İçin Ayarlanabilir RedZone Scripti
 
 client.lua'nın içerisinden ayarlamaları yapabilirsiniz.
